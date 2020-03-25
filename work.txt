@@ -7,3 +7,8 @@
 7. so now I fixing title
 8. additional fix
 9. something went wrong... ninja fix
+
+10. a lot of work here
+11. some testing, playing with code
+12. hacking here and there
+13. implemented, tested
